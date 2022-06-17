@@ -1,0 +1,14 @@
+[
+  {
+    "package": "elfDistr",
+    "oncran": true
+  },
+  {
+    "package": "ggamma",
+    "oncran": true
+  },
+  {
+    "package": "ollggamma",
+    "oncran": true
+  }
+]

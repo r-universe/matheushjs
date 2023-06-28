@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "elfDistr"]
 	path = elfDistr
 	url = https://github.com/matheushjs/elfdistr
-	shallow = true
-	registered = true
 [submodule "ggamma"]
 	path = ggamma
 	url = https://github.com/matheushjs/ggamma
-	shallow = true
-	registered = true
 [submodule "ollggamma"]
 	path = ollggamma
 	url = https://github.com/matheushjs/ollggamma
-	shallow = true
-	registered = true
